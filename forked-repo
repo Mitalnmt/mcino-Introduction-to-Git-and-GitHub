@@ -1,2 +1,3 @@
-curl -s https://api.github.com/repos/mitalnmt/mcino-Introduction-to-Git-and-GitHub | jq -r '.parent.clone_url'
+@Mitalnmt ➜ /workspaces/mcino-Introduction-to-Git-and-GitHub (main) $ curl -s https://api.github.com/repos/mitalnmt/mcino-Introduction-to-Git-and-GitHub | jq -r '.parent.clone_url'
 https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub.git
+@Mitalnmt ➜ /workspaces/mcino-Introduction-to-Git-and-GitHub (main) $ 
